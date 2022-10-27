@@ -8,6 +8,7 @@ pip install -r requirements.txt
 Version de Python utilizada: 3.10.8.
 Como github no permite un repositorio de +25 mb, el entorno debera ser el siguiente o similar:
 (La carpeta Raw_Data deberia contener los archivos brindados para realizar el proyecto inicialmente, que refieren a la etapa de extraccion)
+(La carpeta Processed_Data se ve alterada tras correr el script)
 ```
 .
 ├── _src
